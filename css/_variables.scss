@@ -172,15 +172,17 @@ $welcomePageWatermarkHeight: 32px;
  */
 $welcomePageDescriptionColor: #fff;
 $welcomePageFontFamily: inherit;
-/*
 $welcomePageBackground: none;
+/*
 $welcomePageBackground: linear-gradient(-90deg, #1251AE 0%, #0074FF 50%, #1251AE 100%);
 */        
-$welcomePageBackground: url('../images/welcomepagebg.jpg');
-$welcomePageTitleColor: #fff;
+$welcomePageBackground: linear-gradient(90deg, rgba(255,204,0,1) 0%, rgba(255,204,0,1) 50%, rgba(255,204,0,1) 100%);
 $welcomePageTitleColor: #fff;
 
+/*
 $welcomePageHeaderBackground: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/welcome-background.png');
+*/
+$welcomePageHeaderBackground: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/welcomepagebg.jpg');
 $welcomePageHeaderBackgroundPosition: center;
 $welcomePageHeaderBackgroundRepeat: none;
 $welcomePageHeaderBackgroundSize: cover;
