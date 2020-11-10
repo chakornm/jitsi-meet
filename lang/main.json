@@ -861,7 +861,7 @@
             "join": "Tap to join",
             "roomname": "Enter room name"
         },
-        "appDescription": "Go ahead, video chat with the whole team. In fact, invite everyone you know. {{app}} is a fully encrypted, 100% open source video conferencing solution that you can use all day, every day, for free — with no account needed.",
+        "appDescription": "EGAT Video conference platform with highly secure and easy to access. Supported by Information Technology Electricity Generating Authority of Thailand",
         "audioVideoSwitch": {
             "audio": "Voice",
             "video": "Video"
@@ -890,7 +890,7 @@
         "secureMeetings": "Secure and high quality meetings",
         "startMeeting": "Start meeting",
         "terms": "Terms",
-        "title": "Secure, fully featured, and completely free video conferencing"
+        "title": "EGAT eMeeting Video conference platform"
     },
     "lonelyMeetingExperience": {
         "button": "Invite others",
