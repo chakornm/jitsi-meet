@@ -44,7 +44,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Add a meeting link",
-        "confirmAddLink": "Do you want to add a Jitsi link to this event?",
+        "confirmAddLink": "Do you want to add a eMeeting link to this event?",
         "error": {
             "appConfiguration": "Calendar integration is not properly configured.",
             "generic": "An error has occurred. Please check your calendar settings or try refreshing the calendar.",
@@ -332,7 +332,7 @@
         "answer": "Answer",
         "audioCallTitle": "Incoming call",
         "decline": "Dismiss",
-        "productLabel": "from Jitsi Meet",
+        "productLabel": "from eMeeting",
         "videoCallTitle": "Incoming video call"
     },
     "info": {
@@ -875,8 +875,8 @@
         "goSmall": "GO",
         "info": "Dial-in info",
         "join": "CREATE / JOIN",
-        "jitsiMeet": "Jitsi Meet",
-        "jitsiOnMobile": "Jitsi on mobile – download our apps and start a meeting from anywhere",
+        "jitsiMeet": "EGAT eMeeting",
+        "jitsiOnMobile": "eMeeting on mobile – download our apps and start a meeting from anywhere",
         "moderatedMessage": "Or <a href=\"{{url}}\" rel=\"noopener noreferrer\" target=\"_blank\">book a meeting URL</a> in advance where you are the only moderator.",
         "privacy": "Privacy",
         "recentList": "Recent",
