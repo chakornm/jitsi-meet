@@ -4,7 +4,6 @@ body.welcome-page {
 }
 
 .welcome {
-    /*
     background-image: $welcomePageBackground;
     background-color: #fff;
     display: flex;
@@ -13,18 +12,6 @@ body.welcome-page {
     justify-content: space-between;
     min-height: 100vh;
     position: relative;
-    */
-     background-image: $welcomePageBackground;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    flex-direction: column;
-    font-family: $welcomePageFontFamily;
-    justify-content: space-between;
-    min-height: 100vh;
 
     .header {
         background-image: $welcomePageHeaderBackground;
